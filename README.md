@@ -4,7 +4,7 @@ This repository contains Python scripts to parse Innodb (IBD) files, filter rele
 
 ## Setup
 
-1. Ensure you have Python 3 installed on your machine. This project was developed with Python 3.8.
+1. Ensure you have Python 3 installed on your machine. This project was developed with Python 3.11.
 2. Clone this repository to your local machine: `git clone https://github.com/chip902/inno-to-db.git`
 3. Navigate to the root directory of the repository in your terminal/command line.
 4. Install required packages using pip: `pip install -r requirements.txt`
