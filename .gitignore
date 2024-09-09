@@ -1,0 +1,4 @@
+.venv
+out.txt
+*.csv
+filtered_output.txt
